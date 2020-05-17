@@ -1,0 +1,14 @@
+
+Flask
+Flask-Babel
+Flask-Bootstrap
+Flask-Login
+Flask-Mail
+Flask-Migrate
+Flask-Moment
+Flask-WTF
+peewee
+requests
+six
+WTForms
+Flask-Bcrypt
